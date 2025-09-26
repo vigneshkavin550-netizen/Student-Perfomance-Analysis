@@ -28,8 +28,7 @@ The dataset used in this project is available in the repository under the `data/
 
 [student_data.csv]("C:\Users\Admin\Downloads\student_data.csv")  
 
-> ⚠️ If your dataset is too large, it will not be uploaded here. Instead, it can be downloaded using this link:  
-> [Download Dataset]("data/student_data.csv")  
+
 
 ---
 
